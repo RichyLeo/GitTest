@@ -1,4 +1,4 @@
-# GitTest Git Command test
+GitTest Git Command test
 
 git branch	查看当前分支
 
@@ -15,3 +15,5 @@ git merge dev		合并dev到当前分支（master）
 模拟
 1、在dev上修改readme，并commit
 2、在master上修改内容，并commit
+
+3、创建新的branch-feature

@@ -17,3 +17,4 @@ git merge dev		合并dev到当前分支（master）
 2、在master上修改内容，并commit
 
 3、创建新的branch-feature
+4、test

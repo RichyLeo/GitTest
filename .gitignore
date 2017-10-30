@@ -63,7 +63,7 @@ fastlane/test_output
 # Test - Podfile
 Podfile
 Pods/
-LICENSE
-README.md
+#LICENSE
+#README.md
 
 iOSInjectionProject/

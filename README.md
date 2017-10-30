@@ -1,5 +1,4 @@
-# GitTest
-Git Command test
+# GitTest Git Command test
 
 git branch	查看当前分支
 
@@ -12,4 +11,7 @@ git choukout -b dev  等同于上面2个命令，即创建新分支dev，并切�
 git checkout master	切换回master分支
 git merge dev		合并dev到当前分支（master）
 
+# 解决冲突
+模拟
+1、在dev上修改readme，并commit
 2、在master上修改内容，并commit
